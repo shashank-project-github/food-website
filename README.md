@@ -2,7 +2,7 @@
 
 Welcome to **Dine With Us**, a vibrant and user-friendly website designed to enhance your culinary experience. This repository contains the HTML code for our website, allowing you to explore and contribute to our project.
 # Visit website
-[Dine With Us](https://warm-biscotti-ec0600.netlify.app/)
+[Dine With Us](https://startling-meerkat-d2f700.netlify.app/)
 ## Table of Contents
 
 - [Introduction](#introduction)
